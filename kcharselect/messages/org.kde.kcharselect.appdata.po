@@ -1,0 +1,68 @@
+# Akash Kumar <meakash7902@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-25 04:25+0200\n"
+"PO-Revision-Date: 2024-01-07 15:38+0530\n"
+"Last-Translator: Akash Kumar <meakash7902@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kcharselect.appdata.xml:6
+msgid "KCharSelect"
+msgstr "के-चार-सेलेक्ट"
+
+#. (itstool) path: component/summary
+#: org.kde.kcharselect.appdata.xml:7
+msgid "Character Selector"
+msgstr "वर्ण चयनकर्ता"
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:9
+msgid ""
+"KCharSelect is a tool to select special characters from all installed fonts"
+" and copy them into the clipboard."
+msgstr ""
+"के-चार-सेलेक्ट सभी स्थापित फ़ॉन्ट्स से विशेष वर्णों का चयन करने और उन्हें"
+" क्लिपबोर्ड में कॉपी करने का एक उपकरण है।"
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:12
+msgid ""
+"You can browse characters by their category or quickly find a certain"
+" character by searching for its name."
+msgstr ""
+"आप पात्रों को उनकी श्रेणी के आधार पर ब्राउज़ कर सकते हैं या किसी निश्चित"
+" पात्र का नाम खोजकर उसे तुरंत ढूंढ सकते हैं।"
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:15
+msgid ""
+"KCharSelect displays various information about the selected character. This"
+" includes not only the Unicode character name, but also aliases, general"
+" notes and cross references to similar characters."
+msgstr ""
+"के-चार-सेलेक्ट चयनित चरित्र के बारे में विभिन्न जानकारी प्रदर्शित करता है।"
+" इसमें न केवल यूनिकोड वर्ण नाम, बल्कि उपनाम, सामान्य नोट्स और समान वर्णों के"
+" क्रॉस संदर्भ भी शामिल हैं।"
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:18
+msgid ""
+"For technical use, different representations of the character are shown."
+msgstr "वर्ण चयनकर्ता"
+
+#. (itstool) path: description/p
+#: org.kde.kcharselect.appdata.xml:21
+msgid ""
+"KCharSelect also contains Unihan data for East Asian characters to display"
+" English definitions and different pronunciations."
+msgstr ""
+"के-चार-सेलेक्ट में अंग्रेजी परिभाषाओं और विभिन्न उच्चारणों को प्रदर्शित करने"
+" के लिए पूर्वी एशियाई पात्रों के लिए यूनिहान डेटा भी शामिल है।"
