@@ -1,0 +1,35 @@
+# Akash Kumar <meakash7902@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-10 07:24+0000\n"
+"PO-Revision-Date: 2024-01-07 13:39+0530\n"
+"Last-Translator: Akash Kumar <meakash7902@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kruler.appdata.xml:6
+msgid "KRuler"
+msgstr "के-रूलर"
+
+#. (itstool) path: component/summary
+#: org.kde.kruler.appdata.xml:7
+msgid "Screen Ruler"
+msgstr "स्क्रीन रूलर"
+
+#. (itstool) path: description/p
+#: org.kde.kruler.appdata.xml:9
+msgid ""
+"KRuler is an on-screen ruler for measuring pixels. Position the 0 at your"
+" starting point and measure the precise pixel distance between the starting"
+" point and your cursor."
+msgstr ""
+"के-रूलर एक स्क्रीन पर रूलर है जो पिक्सेल को मापने के लिए है। अपने शुरुआती"
+" बिंदु पर 0 को स्थित करें और अपने कर्सर और शुरुआती बिंदु के बीच सटीक पिक्सेल"
+" दूरी को मापें।"

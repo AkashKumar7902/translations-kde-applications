@@ -1,0 +1,372 @@
+# translation of kruler.po to Hindi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2007.
+# Akash Kumar <meakash7902@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: kruler\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-03-09 00:44+0000\n"
+"PO-Revision-Date: 2024-01-07 13:37+0530\n"
+"Last-Translator: Akash Kumar <meakash7902@gmail.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.12.3\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_AlwaysOnTop)
+#: cfg_advanced.ui:23
+#, kde-format
+msgid ""
+"If this option is enabled, the window is being kept above other windows."
+msgstr "यदि यह विकल्प सक्षम है, तो विंडो को अन्य विंडो के ऊपर रखा जा रहा है।"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AlwaysOnTop)
+#: cfg_advanced.ui:26
+#, kde-format
+msgid "Always on top"
+msgstr "हमेशा ऊपर"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: cfg_appearance.ui:20
+#, kde-format
+msgid "Background color:"
+msgstr "पृष्ठभूमि का रंग:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: cfg_appearance.ui:30
+#, kde-format
+msgid "Font:"
+msgstr "फ़ॉन्ट:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_TrayIcon)
+#: cfg_appearance.ui:40
+#, kde-format
+msgid "Show tray icon"
+msgstr "ट्रे आइकन दिखाएँ"
+
+#: klineal.cpp:90
+#, fuzzy, kde-format
+#| msgid "KRuler"
+msgctxt "@title:window"
+msgid "KRuler"
+msgstr "के-रूलर"
+
+#: klineal.cpp:93
+#, kde-format
+msgid ""
+"This is a tool to measure pixel distances on the screen. It is useful for "
+"working on layouts of dialogs, web pages etc."
+msgstr ""
+"यह स्क्रीन पर पिक्सेल दूरी मापने का एक उपकरण है। यह डायलॉग, वेब पेज आदि के"
+" लेआउट पर काम करने के लिए उपयोगी है।"
+
+#: klineal.cpp:113
+#, kde-format
+msgid "Rotate"
+msgstr "घुमाएँ"
+
+#: klineal.cpp:115
+#, kde-format
+msgid "&Scale"
+msgstr "पैमाना (&S)"
+
+#: klineal.cpp:116 klineal.cpp:330
+#, kde-format
+msgid "Right to Left"
+msgstr "दाएं से बाएं"
+
+#: klineal.cpp:117
+#, kde-format
+msgid "Center Origin"
+msgstr "केंद्र उत्पत्ति"
+
+#: klineal.cpp:119
+#, kde-format
+msgid "Offset..."
+msgstr "ऑफसेट..."
+
+#: klineal.cpp:122
+#, kde-format
+msgid "Percentage"
+msgstr "प्रतिशत"
+
+#: klineal.cpp:129
+#, kde-format
+msgid "O&pacity"
+msgstr ""
+
+#: klineal.cpp:330
+#, kde-format
+msgid "Left to Right"
+msgstr "बाएं से दायां"
+
+#: klineal.cpp:332
+#, kde-format
+msgid "Bottom to Top"
+msgstr "नीचे से शीर्ष तक"
+
+#: klineal.cpp:332
+#, kde-format
+msgid "Top to Bottom"
+msgstr "नीचे से ऊपर"
+
+#: klineal.cpp:375
+#, kde-format
+msgctxt "@title:window"
+msgid "Scale Offset"
+msgstr "स्केल ऑफसेट"
+
+#: klineal.cpp:375
+#, kde-format
+msgid "Offset:"
+msgstr "ऑफसेट:"
+
+#: klineal.cpp:404
+#, kde-format
+msgid "Appearance"
+msgstr "Appearance"
+
+#: klineal.cpp:412
+#, kde-format
+msgid "Advanced"
+msgstr "विकसित"
+
+#: klineal.cpp:498
+#, kde-format
+msgid "%1 px"
+msgstr ""
+
+#: klineal.cpp:505
+#, kde-format
+msgid "%1%"
+msgstr ""
+
+#. i18n: ectx: label, entry (BgColor), group (StoredSettings)
+#: kruler.kcfg:11
+#, kde-format
+msgid "Background color of the ruler."
+msgstr "शासक की पृष्ठभूमि का रंग."
+
+#. i18n: ectx: label, entry (Length), group (StoredSettings)
+#: kruler.kcfg:15
+#, fuzzy, kde-format
+#| msgid "&Orientation"
+msgid "Length of the ruler."
+msgstr "दिशा-स्थिति (&O)"
+
+#. i18n: ectx: label, entry (ScaleFont), group (StoredSettings)
+#: kruler.kcfg:19
+#, kde-format
+msgid "Font of the text on the ruler scale."
+msgstr "रूलर स्केल पर पाठ का फ़ॉन्ट."
+
+#. i18n: ectx: label, entry (Horizontal), group (StoredSettings)
+#: kruler.kcfg:23
+#, kde-format
+msgid "Horizontal ruler"
+msgstr "क्षैतिज शासक"
+
+#. i18n: ectx: label, entry (LeftToRight), group (StoredSettings)
+#: kruler.kcfg:27
+#, fuzzy, kde-format
+#| msgid "&Orientation"
+msgid "Direction of the ruler"
+msgstr "दिशा-स्थिति (&O)"
+
+#. i18n: ectx: label, entry (Offset), group (StoredSettings)
+#: kruler.kcfg:31
+#, kde-format
+msgid "Offset of the origin"
+msgstr "उत्पत्ति का ऑफसेट"
+
+#. i18n: ectx: label, entry (RelativeScale), group (StoredSettings)
+#: kruler.kcfg:35
+#, kde-format
+msgid "Is the scale of the ruler relative (percentage)"
+msgstr "क्या रूलर का पैमाना सापेक्ष है (प्रतिशत) ?"
+
+#. i18n: ectx: label, entry (TrayIcon), group (StoredSettings)
+#: kruler.kcfg:39
+#, kde-format
+msgid "Is a tray icon used"
+msgstr "क्या ट्रे आइकन का उपयोग किया गया है"
+
+#. i18n: ectx: label, entry (Opacity), group (StoredSettings)
+#: kruler.kcfg:43
+#, kde-format
+msgid "Opacity of the window"
+msgstr "विंडो की अपारदर्शिता"
+
+#. i18n: ectx: label, entry (AlwaysOnTop), group (StoredSettings)
+#: kruler.kcfg:47
+#, kde-format
+msgid "Is always on top"
+msgstr "हमेशा ऊपर होता है।"
+
+#: krulersystemtray.cpp:19 main.cpp:35
+#, kde-format
+msgid "KDE Screen Ruler"
+msgstr "केडीई स्क्रीन रूलर"
+
+#: main.cpp:37
+#, fuzzy, kde-format
+#| msgid "A screen ruler for the K Desktop Environment"
+msgid "A screen ruler by KDE"
+msgstr "के डेस्कटॉप एनवायरनमेंट के लिए स्क्रीन रूलर."
+
+#: main.cpp:39
+#, kde-format
+msgid ""
+"(c) 2000 - 2008, Till Krech\n"
+"(c) 2009, Mathias Soeken"
+msgstr ""
+
+#: main.cpp:40
+#, kde-format
+msgid "Mathias Soeken"
+msgstr ""
+
+#: main.cpp:40
+#, kde-format
+msgid "Maintainer"
+msgstr "मेंटेनर"
+
+#: main.cpp:41
+#, kde-format
+msgid "Till Krech"
+msgstr "टिल क्रेच"
+
+#: main.cpp:41
+#, kde-format
+msgid "Former Maintainer and Developer"
+msgstr "पूर्व अनुरक्षक और डेवलपर"
+
+#: main.cpp:42
+#, kde-format
+msgid "Gunnstein Lye"
+msgstr "गनेस्टीन लाइ"
+
+#: main.cpp:42
+#, kde-format
+msgid "Initial port to KDE 2"
+msgstr "केडीई 2 में आरंभिक पोर्ट"
+
+#: main.cpp:43
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "रविशंकर श्रीवास्तव, जी. करूणाकर"
+
+#: main.cpp:43
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "raviratlami@aol.in,"
+
+#~ msgid "KRuler"
+#~ msgstr "के-रूलर"
+
+#~ msgid "This is the current distance measured in pixels."
+#~ msgstr "यह पिक्सेल में मापी गई मौज़ूदा दूरी है."
+
+#, fuzzy
+#~| msgid "Turn &Left"
+#~ msgid "Turn Left"
+#~ msgstr "बाएँ मुड़ें (&L)"
+
+#, fuzzy
+#~| msgid "&Turn Right"
+#~ msgid "Turn Right"
+#~ msgstr "दाएँ मुड़ें (&R)"
+
+#~ msgid "&Orientation"
+#~ msgstr "दिशा-स्थिति (&O)"
+
+#~ msgctxt "Turn Kruler North"
+#~ msgid "&North"
+#~ msgstr "उत्तर (&N)"
+
+#~ msgctxt "Turn Kruler East"
+#~ msgid "&East"
+#~ msgstr "पूर्व (&E)"
+
+#~ msgctxt "Turn Kruler South"
+#~ msgid "&South"
+#~ msgstr "दक्षिण (&S)"
+
+#~ msgctxt "Turn Kruler West"
+#~ msgid "&West"
+#~ msgstr "पश्चिम (&W)"
+
+#~ msgid "&Turn Right"
+#~ msgstr "दाएँ मुड़ें (&R)"
+
+#~ msgid "Turn &Left"
+#~ msgstr "बाएँ मुड़ें (&L)"
+
+#~ msgid "&Length"
+#~ msgstr "लंबाई (&L)"
+
+#~ msgctxt "Make Kruler Height Short"
+#~ msgid "&Short"
+#~ msgstr "छोटा (&S)"
+
+#~ msgctxt "Make Kruler Height Medium"
+#~ msgid "&Medium"
+#~ msgstr "साधारण (&M)"
+
+#~ msgctxt "Make Kruler Height Tall"
+#~ msgid "&Tall"
+#~ msgstr "लंबा (&T)"
+
+#~ msgid "&Full Screen Width"
+#~ msgstr "पूर्ण स्क्रीन चौड़ाई (&F)"
+
+#, fuzzy
+#~| msgid "&Length"
+#~ msgid "Length..."
+#~ msgstr "लंबाई (&L)"
+
+#, fuzzy
+#~| msgid "&Choose Color..."
+#~ msgid "Copy Color"
+#~ msgstr "रंग चुनें... (&C)"
+
+#~ msgid "&Full Screen Height"
+#~ msgstr "पूर्ण स्क्रीन ऊँचाई (&F)"
+
+#, fuzzy
+#~| msgid "&Length"
+#~ msgctxt "@title:window"
+#~ msgid "Ruler Length"
+#~ msgstr "लंबाई (&L)"
+
+#, fuzzy
+#~| msgid "&Length"
+#~ msgid "Length:"
+#~ msgstr "लंबाई (&L)"
+
+#, fuzzy
+#~| msgid "&Length"
+#~ msgid "Length: %1 px"
+#~ msgstr "लंबाई (&L)"
+
+#, fuzzy
+#~| msgid "&Orientation"
+#~ msgid "Orientation of the ruler"
+#~ msgstr "दिशा-स्थिति (&O)"
+
+#~ msgid "Choose &Font..."
+#~ msgstr "फ़ॉन्ट चुनें... (&F)"
+
+#~ msgid "(c) 2000, Till Krech"
+#~ msgstr "(c) 2000, टिल क्रेच"
+
+#~ msgid "Programming"
+#~ msgstr "प्रोग्रामिंग"
