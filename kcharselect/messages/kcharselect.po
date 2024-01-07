@@ -112,7 +112,7 @@ msgstr "क्रिस्टोफ़ फ़ेक"
 #: main.cc:47
 #, kde-format
 msgid "KF5 port and current maintainer"
-msgstr "KF5 पोर्ट और वर्तमान रखरखावाला"
+msgstr "KF5 पोर्ट और वर्तमान मेंटेनर"
 
 #: main.cc:48 main.cc:51
 #, kde-format
@@ -122,7 +122,7 @@ msgstr "डेनियल लैडिग"
 #: main.cc:48
 #, kde-format
 msgid "Author and previous maintainer"
-msgstr "लेखक और पिछला रखरखावाला"
+msgstr "लेखक और पिछला मेंटेनर"
 
 #: main.cc:49
 #, kde-format
@@ -159,7 +159,7 @@ msgstr "कॉन्स्टेंटिन बर्ज़न"
 #: main.cc:56
 #, kde-format
 msgid "Previous maintainer"
-msgstr "पिछला रखरखावाला"
+msgstr "पिछला मेंटेनर"
 
 #: main.cc:57
 #, kde-format

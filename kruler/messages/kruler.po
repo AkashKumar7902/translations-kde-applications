@@ -245,7 +245,7 @@ msgstr "टिल क्रेच"
 #: main.cpp:41
 #, kde-format
 msgid "Former Maintainer and Developer"
-msgstr "पूर्व अनुरक्षक और डेवलपर"
+msgstr "पूर्व मेंटेनर और डेवलपर"
 
 #: main.cpp:42
 #, kde-format
