@@ -51,7 +51,7 @@ msgstr "2018-03-04"
 #: index.docbook:31
 #, no-c-format
 msgid "Applications 18.04"
-msgstr "एप्लिकेशन 18.04"
+msgstr "एप्लिकेशन्स 18.04"
 
 #. Tag: para
 #: index.docbook:34
