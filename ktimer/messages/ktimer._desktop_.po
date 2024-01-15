@@ -291,7 +291,7 @@ msgstr "डेस्कटॉप स्टॉपवॉच"
 #~| msgid "Configure your remote controls for use with applications"
 #~ msgctxt "Comment"
 #~ msgid "Configure your remote controls for use with applications"
-#~ msgstr "अनुप्रयोगों के साथ उपयोग के लिए अपने रिमोट नियंत्रण को कॉन्फ़िगर करें"
+#~ msgstr "एप्लिकेशन्स के साथ उपयोग के लिए अपने रिमोट नियंत्रण को कॉन्फ़िगर करें"
 
 #, fuzzy
 #~| msgid "Remote Controls"

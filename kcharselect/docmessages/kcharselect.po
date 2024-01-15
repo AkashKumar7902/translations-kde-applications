@@ -46,7 +46,7 @@ msgstr "2016-04-25"
 #: index.docbook:22
 #, no-c-format
 msgid "1.12 (Applications 16.04)"
-msgstr "1.12 (अनुप्रयोग 16.04)"
+msgstr "1.12 (एप्लिकेशन्स 16.04)"
 
 #. Tag: keyword
 #: index.docbook:25
